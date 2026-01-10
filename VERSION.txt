@@ -1,6 +1,0 @@
-# v8 - Winner Clone (Round 5)
-# Date: 2024-12-15
-# CFG: 5.75/2.4
-# BG Model: hiepnd11/rm_back2.0
-# Padding: 0.2
-# Base: Uglejo/trenzik (Round 4 winner)
